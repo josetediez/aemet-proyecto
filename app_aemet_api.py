@@ -170,5 +170,3 @@ def forecast(req: ForecastRequest):
         "ubicacion": req.ubicacion,
         "predicciones": preds
     }
-
-
